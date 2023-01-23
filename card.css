@@ -1,5 +1,4 @@
-.card{
-    width: 50px;
+.cards{
     display: flex;
-    display: inline;
+    flex-direction: row;
 }
